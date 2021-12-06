@@ -1,9 +1,6 @@
 ### Paths #################################################
-# Point to the path of your applications code on your host
-
 API_CODE_WORKDIR=/path/to/workdir
-
-APP_CODE_LOCAL_PATH=/path/to/local/dir
+API_CODE_LOCAL_PATH=/path/to/local/dir
 
 ### PORT #################################################
 API_PORT=
